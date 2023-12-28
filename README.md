@@ -1,2 +1,1 @@
-# Temp_Control
-电脑温度控制
+#220v ntc
